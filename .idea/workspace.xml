@@ -34,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Programming/java/bytebank-inherited" />
   </component>
   <component name="ProjectId" id="2UtGi6nLMSE8FBS2A9zmgarXAys" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -49,12 +49,33 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Fedato/Programming/java/bytebank-inherited/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestReferences">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fedato\Programming\java\bytebank-inherited\src" />
+      <recent name="C:\Users\Fedato\Programming\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestAccounts">
+    <configuration name="TestAccounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAccounts" />
+      <module name="bytebank-inherited" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestEmployee" />
+      <module name="bytebank-inherited" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestManager" />
       <module name="bytebank-inherited" />
@@ -71,6 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAccounts" />
+        <item itemvalue="Application.TestEmployee" />
         <item itemvalue="Application.TestReferences" />
         <item itemvalue="Application.TestManager" />
       </list>
